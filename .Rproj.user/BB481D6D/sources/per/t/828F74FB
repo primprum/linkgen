@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589746400575.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1642038477",
+    "id" : "828F74FB",
+    "lastKnownWriteTime" : 1589452828,
+    "last_content_update" : 1589452828,
+    "path" : "~/linkgen/NAMESPACE",
+    "project_path" : "NAMESPACE",
+    "properties" : {
+    },
+    "read_only" : true,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_namespace"
+}
