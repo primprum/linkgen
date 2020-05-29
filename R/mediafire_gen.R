@@ -10,7 +10,7 @@
 #' @export
 #'
 #' @examples
-#' mediafire_gen("http://www.imdb.com/title/tt1490017/")
+#' mediafire_gen("http://mediafiresharedlink/file")
 mediafire_gen <- function(link) {
   mediafire <- read_html(link)
 
