@@ -1,9 +1,9 @@
 {
-    "path" : "~/linkgen/api",
-    "sortOrder" : [
+    "path": "~/github/linkgen",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
